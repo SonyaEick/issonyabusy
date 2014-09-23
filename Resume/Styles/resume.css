@@ -1,0 +1,46 @@
+
+
+body{
+	border: solid black 1px;
+	margin: 50px 20% 50px 20%;
+	padding: 20px;
+	font-size: 15px;
+	font-family: 'Old Standard TT', serif;
+}
+
+h1{
+	font-size: 45px;
+	font-family: 'Playfair Display SC', serif;
+}
+
+p{
+	padding-top: 25px;
+	font-size: 18px;
+	font-family: 'Playfair Display SC', serif;
+}
+
+
+#address{
+	font-family: 'Old Standard TT', serif;
+}
+
+#title{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#bio{
+	font-size: 17px;
+	padding-bottom: 20px;
+	font-family: 'Playfair Display SC', serif;
+}
+
+#bold-underline{
+	font-weight: bold;
+	text-decoration: underline;
+		display: inline-block;
+}
+#underline{
+	text-decoration: underline;
+	display: inline-block;
+}
